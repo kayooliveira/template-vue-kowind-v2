@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.github.com/kayooliveira/kowind" target="_blank" rel="noopener noreferrer">
-    <img width="200" src="./src/assets/logo.svg" alt="kowind logo">
+    <img width="200" src="./logo.svg" alt="kowind logo">
   </a>
 </p>
 <br>
@@ -13,7 +13,7 @@
 </p>
 <br/>
 
-# <p align="center"> :bird: KOWind :bird: 
+# <p align="center"> :bird: ***KOWIND*** v3 :bird: 
 
 > #### Vite helper based on [vitawind](https://github.com/huibizhang/vitawind)
 
@@ -54,9 +54,9 @@ Vite is a build tool that aims to provide a faster and leaner development experi
 
 > Just run the following commands in your terminal.
 ```
-    $ yarn create kowind <project-name>
+    $ yarn create kowindv3 <project-name> --template <template-name>
     #or
-    $ npm init kowind <project-name>
+    $ npm init kowindv3 <project-name> --template <template-name>
 
     $ cd <project-name>
 ```
